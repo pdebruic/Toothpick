@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TimestampFormatter",
+	"category" : "Toothpick-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TimeTimestampFormatter",
+	"type" : "normal"
+}

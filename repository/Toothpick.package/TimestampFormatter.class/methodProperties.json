@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"print:on:followedBy:width:" : "",
+		"formatTimestamp:on:" : "",
+		"configureFromDictionary:" : "",
+		"formatTimestamp:" : ""
+	},
+	"class" : {
+		"mappings" : "",
+		"configureFromDictionary:" : "",
+		"mappingKey" : ""
+	}
+}

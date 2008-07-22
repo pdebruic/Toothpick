@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Toothpick-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"category",
+		"timeStamp",
+		"level",
+		"message",
+		"context",
+		"exception"
+	],
+	"name" : "LoggingEvent",
+	"type" : "normal"
+}

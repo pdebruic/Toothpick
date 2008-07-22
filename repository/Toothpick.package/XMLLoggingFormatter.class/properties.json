@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TimestampLoggingFormatter",
+	"category" : "Toothpick-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "XMLLoggingFormatter",
+	"type" : "normal"
+}

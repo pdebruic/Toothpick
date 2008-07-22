@@ -1,0 +1,1 @@
+LoggingPolicy defines which events will be logged. This is most often based on the criteria of category and level.

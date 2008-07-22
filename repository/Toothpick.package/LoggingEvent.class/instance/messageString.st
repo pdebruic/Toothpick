@@ -1,0 +1,4 @@
+printing
+messageString
+	^self message
+			

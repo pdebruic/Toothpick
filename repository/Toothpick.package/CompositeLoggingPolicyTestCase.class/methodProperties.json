@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testMultiLoggingPolicy" : "jp 10/12/2006 18:00",
+		"policy:" : "",
+		"event:" : "",
+		"setUp" : "",
+		"policy" : "",
+		"event" : "",
+		"testLoggingEventPatterns" : "jp 10/12/2006 18:00"
+	},
+	"class" : { }
+}

@@ -1,0 +1,5 @@
+mappings
+loggerMappings
+
+	^Logger mappings
+			

@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"format" : "",
+		"policy:" : "",
+		"startLogging" : "",
+		"name" : "",
+		"closeStream" : "",
+		"outputHeader" : "",
+		"name:" : "",
+		"isLogging" : "",
+		"outputFooter" : "",
+		"policy" : "",
+		"format:" : "",
+		"addEvent:" : "",
+		"stream:" : "",
+		"stopLogging" : "",
+		"stream" : ""
+	},
+	"class" : {
+		"configureFromDictionary:" : "",
+		"mappingKey" : "",
+		"mappings" : "",
+		"iniFileFields" : "",
+		"defaultLogName" : ""
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"validateSecondLogger:" : "",
+		"validateFirstLogger:" : "",
+		"validateThirdLogger:" : "",
+		"setUp" : "",
+		"testLoggingEventPatternValidation" : "jp 10/12/2006 17:59",
+		"sampleIniString" : "jp 10/12/2006 17:58",
+		"testLoggerCreationFromIniFile" : "jp 10/13/2006 11:25",
+		"testLoggingEventPatternCreation" : "jp 10/13/2006 11:27",
+		"validateFourthLogger:" : ""
+	},
+	"class" : { }
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Toothpick-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format",
+		"name",
+		"stream",
+		"isLogging",
+		"policy"
+	],
+	"name" : "Logger",
+	"type" : "normal"
+}

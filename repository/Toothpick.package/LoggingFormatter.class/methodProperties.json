@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"outputHeaderOn:" : "",
+		"addEvent:on:from:" : "jp 10/19/2006 13:08",
+		"configureFromDictionary:" : "",
+		"formatEvent:on:from:" : "",
+		"outputFooterOn:" : ""
+	},
+	"class" : {
+		"mappings" : "",
+		"defaultFormat" : "",
+		"configureFromDictionary:" : "",
+		"mappingKey" : ""
+	}
+}

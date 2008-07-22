@@ -1,0 +1,4 @@
+*Toothpick-Configuration
+mappingKey
+	^'iso'
+			

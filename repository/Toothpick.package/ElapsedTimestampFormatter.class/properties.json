@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TimestampFormatter",
+	"category" : "Toothpick-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ts"
+	],
+	"name" : "ElapsedTimestampFormatter",
+	"type" : "normal"
+}

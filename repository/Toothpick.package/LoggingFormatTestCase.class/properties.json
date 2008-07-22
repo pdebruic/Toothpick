@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "LoggingEventTestCase",
+	"category" : "Toothpick-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "LoggingFormatTestCase",
+	"type" : "normal"
+}

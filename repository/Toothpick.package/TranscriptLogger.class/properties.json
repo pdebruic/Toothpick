@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Logger",
+	"category" : "Toothpick-TranscriptLogger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TranscriptLogger",
+	"type" : "normal"
+}

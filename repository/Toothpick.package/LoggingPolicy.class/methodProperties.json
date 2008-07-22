@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"configureFromDictionary:" : "",
+		"category" : "",
+		"level" : "",
+		"isInterestingBlock" : "",
+		"defaultIsInterestingBlock" : "",
+		"isInteresting:" : "",
+		"isInterestingBlock:" : "",
+		"setCategory:level:" : ""
+	},
+	"class" : {
+		"configureFromDictionary:" : "",
+		"debugPolicy" : "",
+		"defaultPolicy" : "",
+		"mappingKey" : "",
+		"category:level:" : "",
+		"mappings" : ""
+	}
+}

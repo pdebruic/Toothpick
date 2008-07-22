@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Logger",
+	"category" : "Toothpick-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileName",
+		"buffer",
+		"mutex"
+	],
+	"name" : "FileLogger",
+	"type" : "normal"
+}

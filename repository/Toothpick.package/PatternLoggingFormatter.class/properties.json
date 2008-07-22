@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TimestampLoggingFormatter",
+	"category" : "Toothpick-PatternFormat",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"formatString"
+	],
+	"name" : "PatternLoggingFormatter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"testAbsoluteTimeDateFormat" : "",
+		"timestamp" : "mberth 7/21/2008 23:46",
+		"testDateTimeFormat" : "mberth 7/21/2008 23:46",
+		"assert:equals:" : "",
+		"testRelativeTimeDateFormat" : "jp 10/13/2006 12:51",
+		"testISO8601TimeDateFormat" : "mberth 7/21/2008 23:46"
+	},
+	"class" : { }
+}

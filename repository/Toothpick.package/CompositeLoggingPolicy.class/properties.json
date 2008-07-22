@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "LoggingPolicy",
+	"category" : "Toothpick-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"patterns"
+	],
+	"name" : "CompositeLoggingPolicy",
+	"type" : "normal"
+}

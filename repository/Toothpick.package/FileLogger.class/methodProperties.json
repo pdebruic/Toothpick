@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"newMutex" : "jp 10/19/2006 13:03",
+		"fileName:" : "",
+		"addEvent:" : "jp 10/19/2006 13:04",
+		"flush" : "jp 10/19/2006 13:05",
+		"initialize" : "jp 10/19/2006 13:03",
+		"stream" : "mberth 7/22/2008 00:32",
+		"fileName" : "",
+		"outputHeader" : "jp 10/19/2006 13:05",
+		"outputFooter" : "jp 10/19/2006 13:05"
+	},
+	"class" : {
+		"configureFromDictionary:" : "",
+		"new" : "jp 10/19/2006 13:16",
+		"xmlLogger" : "",
+		"mappingKey" : "",
+		"defaultLogger" : "",
+		"iniFileFields" : "",
+		"defaultLogFileName" : "",
+		"exampleFileLogger" : "",
+		"defaultLogName" : ""
+	}
+}

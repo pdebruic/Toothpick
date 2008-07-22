@@ -1,0 +1,4 @@
+configuring
+defaultLogFileName
+	^'debug.log'
+			

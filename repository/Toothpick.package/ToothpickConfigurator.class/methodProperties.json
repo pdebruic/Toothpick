@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"multiplexer" : "",
+		"sampleIniString" : "",
+		"multiplexer:" : "",
+		"configureFromFileNamed:" : "",
+		"loggerMappings" : "",
+		"loggerListFrom:" : "",
+		"loggerFromDictionary:" : "",
+		"fileName" : "",
+		"configureFromIniFile" : "",
+		"configureFromLoggerList:" : ""
+	},
+	"class" : {
+		"for:" : ""
+	}
+}

@@ -1,0 +1,4 @@
+accessing
+defaultFormatString
+	^'%p - %m'
+			

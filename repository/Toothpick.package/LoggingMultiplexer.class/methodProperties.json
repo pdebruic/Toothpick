@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"configureFromIniFile" : "",
+		"newMutex" : "jp 10/19/2006 13:08",
+		"addLogger:" : "",
+		"initialize" : "jp 10/19/2006 13:08",
+		"addEvent:" : "jp 10/19/2006 13:09",
+		"loggers" : "",
+		"startAllLoggers" : "jp 10/19/2006 13:10",
+		"loggerNamed:" : "",
+		"stopAllLoggers" : "jp 10/19/2006 13:10"
+	},
+	"class" : {
+		"current" : "",
+		"initialize" : "",
+		"initializeAfterLoad" : "",
+		"reset" : ""
+	}
+}

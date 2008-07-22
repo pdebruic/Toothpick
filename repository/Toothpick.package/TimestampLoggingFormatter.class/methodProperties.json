@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"tsFormatter" : "",
+		"tsFormatter:" : "",
+		"configureFromDictionary:" : "",
+		"formatEvent:on:from:" : ""
+	},
+	"class" : {
+		"dateTimeFormat" : "",
+		"mappingKey" : "",
+		"timeFormat" : "",
+		"type:" : "",
+		"iso8601Format" : "",
+		"defaultFormat" : "",
+		"elapsedTimeFormat" : "",
+		"timestampFormatMappings" : ""
+	}
+}

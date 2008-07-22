@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"tokenDictionary" : "",
+		"priority:format:logger:on:" : "",
+		"category:format:logger:on:" : "",
+		"formatString" : "",
+		"context:format:logger:on:" : "",
+		"loggerName:format:logger:on:" : "",
+		"initialize" : "",
+		"defaultFormatString" : "",
+		"date:format:logger:on:" : "",
+		"getDateFormatModifierFrom:" : "",
+		"processPunctuation:on:" : "",
+		"formatEvent:on:from:" : "",
+		"getFormatModifierFrom:" : "",
+		"formatString:" : "",
+		"configureFromDictionary:" : "",
+		"message:format:logger:on:" : ""
+	},
+	"class" : {
+		"new" : "",
+		"mappingKey" : ""
+	}
+}

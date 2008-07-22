@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Toothpick-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"categories",
+		"level",
+		"comparator",
+		"patternString"
+	],
+	"name" : "LoggingEventPattern",
+	"type" : "normal"
+}

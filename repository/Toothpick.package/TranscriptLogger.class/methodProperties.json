@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"initialize" : ""
+	},
+	"class" : {
+		"mappingKey" : "",
+		"new" : "",
+		"defaultLogName" : ""
+	}
+}

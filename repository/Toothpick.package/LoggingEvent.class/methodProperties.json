@@ -1,0 +1,42 @@
+{
+	"instance" : {
+		"message" : "",
+		"context" : "",
+		"timeStamp:" : "",
+		"categoryString" : "",
+		"level:" : "",
+		"category:" : "",
+		"context:" : "",
+		"printBasicsOn:" : "",
+		"exception:" : "",
+		"messageString" : "",
+		"level" : "",
+		"isLevelHigherThan:" : "",
+		"category" : "",
+		"allLevelsStrings" : "",
+		"message:" : "",
+		"exception" : "",
+		"allLevels" : "",
+		"levelString" : "",
+		"timeStamp" : ""
+	},
+	"class" : {
+		"allLevels" : "",
+		"category:level:message:exception:" : "",
+		"logError:" : "",
+		"category:timeStamp:level:message:exception:" : "",
+		"logFatal:" : "",
+		"debugDebug" : "",
+		"logMessage:" : "",
+		"category:timeStamp:level:message:context:exception:" : "",
+		"newDebugEventLevel:message:" : "",
+		"performanceWarning" : "",
+		"category:level:message:" : "",
+		"logWarn:" : "",
+		"timestampClass" : "jp 10/13/2006 12:04",
+		"uiFatal" : "",
+		"logInfo:" : "",
+		"debugInfo" : "",
+		"uiWarning" : ""
+	}
+}

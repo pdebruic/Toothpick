@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"configureFromDictionary:" : "",
+		"patterns" : "",
+		"initialize" : "",
+		"isInterestingBlock" : "",
+		"addPattern:" : ""
+	},
+	"class" : {
+		"new" : "",
+		"mappingKey" : ""
+	}
+}

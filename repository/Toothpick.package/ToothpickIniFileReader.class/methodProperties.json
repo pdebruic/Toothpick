@@ -1,0 +1,32 @@
+{
+	"instance" : {
+		"sections" : "",
+		"parseTextFileStream:" : "jp 10/13/2006 11:20",
+		"initialize" : "",
+		"delimiterCharacter:" : "",
+		"commentCharacter:" : "",
+		"fileName" : "",
+		"defaultCommentChar" : "",
+		"sectionOpenerChar" : "",
+		"textForKey:section:" : "",
+		"collection:" : "",
+		"fileNotFoundErrorString" : "",
+		"fileName:" : "",
+		"textDictionaryForSection:" : "",
+		"fileNotLoadableErrorString" : "",
+		"defaultDelimiterChar" : "",
+		"loadFromFile" : "",
+		"collection" : "",
+		"delimiterCharacter" : "",
+		"commentCharacter" : "",
+		"peekForComment:" : "",
+		"peekForSection:" : "",
+		"fileFormatNotValidErrorString" : ""
+	},
+	"class" : {
+		"new" : "",
+		"onFile:" : "",
+		"onFile:commentCharacter:delimiterCharacter:" : "",
+		"onFile:withDictionary:" : ""
+	}
+}

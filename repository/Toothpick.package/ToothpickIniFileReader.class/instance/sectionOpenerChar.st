@@ -1,0 +1,6 @@
+parsing
+sectionOpenerChar
+	"(private)"
+
+	^$[
+			
