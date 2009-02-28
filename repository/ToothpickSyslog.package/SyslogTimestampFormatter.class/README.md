@@ -1,0 +1,1 @@
+I'm a Timestamp formatter who formats according to syslog (RFC3164)

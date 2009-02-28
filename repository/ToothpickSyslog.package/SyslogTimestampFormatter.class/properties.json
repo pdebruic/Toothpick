@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "us 2/28/2009 14:50",
+	"super" : "DateTimeTimestampFormatter",
+	"category" : "ToothpickSyslog-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SyslogTimestampFormatter",
+	"type" : "normal"
+}

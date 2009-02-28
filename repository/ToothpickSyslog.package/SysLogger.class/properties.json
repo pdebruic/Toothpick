@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "us 2/28/2009 14:46",
+	"super" : "Logger",
+	"category" : "ToothpickSyslog-Logger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"syslogTimestampFormatter",
+		"facilityMap",
+		"unmappedFacility",
+		"hostname",
+		"server",
+		"port",
+		"socket"
+	],
+	"name" : "SysLogger",
+	"type" : "normal"
+}
