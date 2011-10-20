@@ -3,5 +3,9 @@
 		"millisecond" : "jp 10/13/2006 12:57",
 		"toothpickPrintString" : "jp 10/13/2006 12:21"
 	},
-	"class" : { }
+	"class" : {
+		"year:day:hour:minute:second:nanoSecond:" : "PaulDeBruicker 10/20/2011 16:30",
+		"year:day:hour:minute:second:nanoSecond:offset:" : "PaulDeBruicker 10/20/2011 16:31",
+		"date:time:" : "PaulDeBruicker 10/20/2011 16:34"
+	}
 }
