@@ -4,7 +4,9 @@
 	"category" : "Toothpick-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"LoggingLineFeedString"
+	],
 	"instvars" : [ ],
 	"name" : "LoggingFormatter",
 	"type" : "normal"

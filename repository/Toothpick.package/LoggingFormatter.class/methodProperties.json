@@ -1,15 +1,18 @@
 {
 	"instance" : {
 		"outputHeaderOn:" : "",
-		"addEvent:on:from:" : "jp 10/19/2006 13:08",
+		"addEvent:on:from:" : "KariPatana 11/21/2011 12:56",
 		"configureFromDictionary:" : "",
+		"putLineFeedOn:" : "KariPatana 11/21/2011 12:56",
 		"formatEvent:on:from:" : "",
 		"outputFooterOn:" : ""
 	},
 	"class" : {
+		"configureFromDictionary:" : "",
+		"lineFeedString" : "KariPatana 11/21/2011 12:57",
+		"mappingKey" : "",
 		"mappings" : "",
 		"defaultFormat" : "",
-		"configureFromDictionary:" : "",
-		"mappingKey" : ""
+		"lineFeedString:" : "KariPatana 11/21/2011 12:57"
 	}
 }
