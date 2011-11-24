@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JoinedLoggingPolicy",
+	"category" : "ToothpickSeaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "IntersectionLoggingPolicy",
+	"type" : "normal"
+}

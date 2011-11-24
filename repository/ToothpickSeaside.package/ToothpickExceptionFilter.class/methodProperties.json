@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"handledExceptions" : "PanuSuominen 11/21/2011 13:31",
+		"extractFrames:" : "PanuSuominen 11/21/2011 14:16",
+		"internalError:" : "PanuSuominen 11/21/2011 14:22",
+		"loggingCategory" : "PanuSuominen 11/21/2011 13:31",
+		"handleFiltered:" : "PanuSuominen 11/21/2011 13:37",
+		"buildMessage:" : "PanuSuominen 11/21/2011 14:44",
+		"loggingLevel" : "PanuSuominen 11/21/2011 13:29",
+		"defaultConfiguration" : "PanuSuominen 11/21/2011 15:31",
+		"handleException:" : "PanuSuominen 11/21/2011 14:31"
+	},
+	"class" : { }
+}

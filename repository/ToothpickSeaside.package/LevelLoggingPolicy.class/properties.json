@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BaseLoggingPolicy",
+	"category" : "ToothpickSeaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"level"
+	],
+	"name" : "LevelLoggingPolicy",
+	"type" : "normal"
+}

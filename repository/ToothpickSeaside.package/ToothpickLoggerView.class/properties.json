@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "ToothpickSeaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"logger"
+	],
+	"name" : "ToothpickLoggerView",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"shouldLogEventWithCategory:" : "PanuSuominen 11/22/2011 08:57",
+		"shouldLogEventWithLevel:category:" : "PanuSuominen 11/22/2011 09:00",
+		"randomCategory" : "PanuSuominen 11/22/2011 08:58",
+		"shouldNotLogEventWithLevel:" : "PanuSuominen 11/22/2011 09:00",
+		"classTested" : "PanuSuominen 11/22/2011 08:46",
+		"shouldLogEventWithLevel:" : "PanuSuominen 11/22/2011 08:56",
+		"shouldNotLogEventWithCategory:" : "PanuSuominen 11/22/2011 08:57",
+		"shouldNotLogEventWithLevel:category:" : "PanuSuominen 11/22/2011 08:55",
+		"randomLevel" : "PanuSuominen 11/22/2011 08:58",
+		"setUp" : "PanuSuominen 11/22/2011 08:46"
+	},
+	"class" : { }
+}

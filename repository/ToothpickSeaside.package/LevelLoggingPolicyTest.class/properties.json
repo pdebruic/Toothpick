@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LoggingPolicyTest",
+	"category" : "ToothpickSeaside-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LevelLoggingPolicyTest",
+	"type" : "normal"
+}

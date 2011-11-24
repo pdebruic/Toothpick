@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "ToothpickSeaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"loggingLevel",
+		"loggingCategory",
+		"message"
+	],
+	"name" : "ToothpickLoggingEventSender",
+	"type" : "normal"
+}

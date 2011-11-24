@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PanuSuominen 11/22/2011 11:31",
+	"super" : "WAConfiguredRequestFilter",
+	"category" : "ToothpickSeaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ToothpickExceptionFilter",
+	"type" : "normal"
+}

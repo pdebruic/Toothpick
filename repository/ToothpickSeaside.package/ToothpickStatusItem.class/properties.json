@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WAStatusItem",
+	"category" : "ToothpickSeaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"configurator",
+		"sender"
+	],
+	"name" : "ToothpickStatusItem",
+	"type" : "normal"
+}
