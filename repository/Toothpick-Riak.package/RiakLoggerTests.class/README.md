@@ -1,0 +1,1 @@
+testCountMessageTypes errors out intermitently when run using the testRunner.  I do not know why.  

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "PaulDeBruicker 5/4/2012 16:25",
+	"super" : "TestCase",
+	"category" : "Toothpick-Riak",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"keysAndLogs",
+		"logger"
+	],
+	"name" : "RiakLoggerTests",
+	"type" : "normal"
+}

@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"putJsonDictionary" : "PaulDeBruicker 5/4/2012 09:35",
+		"initializeJsonDictionary" : "PaulDeBruicker 5/4/2012 08:59",
+		"bucket" : "PaulDeBruicker 5/4/2012 09:35",
+		"bucketName:" : "PaulDeBruicker 5/4/2012 09:26",
+		"key:" : "PaulDeBruicker 5/4/2012 10:42",
+		"initialize" : "PaulDeBruicker 5/4/2012 08:59",
+		"key" : "PaulDeBruicker 5/4/2012 10:47",
+		"bucketName" : "PaulDeBruicker 5/4/2012 09:26",
+		"addEvent:" : "PaulDeBruicker 5/4/2012 09:08",
+		"session" : "PaulDeBruicker 5/4/2012 08:16",
+		"session:" : "PaulDeBruicker 5/4/2012 08:17",
+		"jsonDictionary" : "PaulDeBruicker 5/4/2012 08:59"
+	},
+	"class" : {
+		"exampleRiakLogger" : "PaulDeBruicker 5/4/2012 09:42",
+		"host:port:" : "PaulDeBruicker 5/4/2012 09:37"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "PaulDeBruicker 5/4/2012 10:47",
+	"super" : "Logger",
+	"category" : "Toothpick-Riak",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"session",
+		"jsonDictionary",
+		"bucketName",
+		"key"
+	],
+	"name" : "RiakLogger",
+	"type" : "normal"
+}
