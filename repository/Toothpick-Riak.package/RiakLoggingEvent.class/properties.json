@@ -1,14 +1,14 @@
 {
-	"commentStamp" : "PaulDeBruicker 5/4/2012 10:47",
-	"super" : "Logger",
+	"commentStamp" : "",
+	"super" : "LoggingEvent",
 	"category" : "Toothpick-Riak",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"session",
-		"jsonDictionary"
+		"bucketName",
+		"key"
 	],
-	"name" : "RiakLogger",
+	"name" : "RiakLoggingEvent",
 	"type" : "normal"
 }

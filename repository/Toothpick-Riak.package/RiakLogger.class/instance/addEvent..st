@@ -5,4 +5,4 @@ addEvent: anEvent
 	(self policy isInteresting: anEvent)
 		ifFalse: [ ^ self ].
 	self format addEvent: anEvent to: self jsonDictionary from: self.
-	self putJsonDictionary
+	self putJsonDictionaryInBucket: anEvent bucketName atKey: anEvent key

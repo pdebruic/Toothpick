@@ -1,3 +1,3 @@
 as yet unclassified
 infoEvent
-	^ LoggingEvent newDebugEventLevel: #info message: 'Info Message'
+	^ RiakLoggingEvent newDebugEventLevel: #info message: 'Info Message' forBucketNamed: self bucketNameForTests

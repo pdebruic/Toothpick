@@ -1,22 +1,27 @@
 as yet unclassified
 testCountMessageTypes
-	| result |
+	| result event key |
+	" for some reason this test passes the first time and fails after that"
 	3
 		timesRepeat: [ 
-			self randomKey.
+			event := self infoEvent.
+			key := self randomKey.
+			event key: key.
 			self logger
 				startLogging;
-				addEvent: self infoEvent;
+				addEvent: event;
 				stopLogging.
-			self keysAndLogs at: self logger key put: self logger jsonDictionary copy ].
+			self keysAndLogs at: key copy put: self logger jsonDictionary copy ].
 	2
 		timesRepeat: [ 
-			self randomKey.
+			event := self errorEvent.
+			key := self randomKey.
+			event key: key.
 			self logger
 				startLogging;
-				addEvent: self errorEvent;
+				addEvent: event;
 				stopLogging.
-			self keysAndLogs at: self logger key put: self logger jsonDictionary copy ].
+			self keysAndLogs at: key copy put: self logger jsonDictionary copy ].
 	result := self logger session mapReduce
 		bucket: self bucketNameForTests;
 		map:

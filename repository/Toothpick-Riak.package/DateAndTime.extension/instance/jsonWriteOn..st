@@ -1,3 +1,3 @@
 *toothpick-riak
-jsonOn: aStream
+jsonWriteOn: aStream
 	self printOn: aStream

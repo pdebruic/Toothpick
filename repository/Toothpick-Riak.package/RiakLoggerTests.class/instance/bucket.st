@@ -1,3 +1,3 @@
 as yet unclassified
 bucket
-	^ self logger bucket
+	^ self logger bucketNamed: self bucketNameForTests

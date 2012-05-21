@@ -1,8 +1,11 @@
 as yet unclassified
 testLoggingJsonErrorMessage
+	| event key |
+	event := self jsonErrorMessage.
+	key := self randomKey.
+	event key: key.
 	self logger
 		startLogging;
-		addEvent: self jsonErrorMessage;
+		addEvent: event;
 		stopLogging.
-
-	self assert: (self bucket at: self logger key) data equals: self logger jsonDictionary asJson
+	self assert: (self bucket at: key) data equals: self logger jsonDictionary asJson
