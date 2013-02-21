@@ -1,12 +1,11 @@
 instance creation
-category: category timeStamp: timeStamp level: level message: message exception: exception 
-	| event |
-	event := (self new)
-				category: category;
-				timeStamp: timeStamp;
-				level: level;
-				message: message;
-				exception: exception;
-				yourself.
-	^LoggingMultiplexer current addEvent:event
-			
+category: aCategory timeStamp: aTimeStamp level: aLevel message: aMessage exception: anException
+	| newEvent |
+	newEvent := self new
+		category: aCategory;
+		timeStamp: aTimeStamp;
+		level: aLevel;
+		message: aMessage;
+		exception: anException;
+		yourself.
+	^ LoggingMultiplexer current addEvent: newEvent

@@ -1,5 +1,5 @@
 convenience
 timestampClass
 	"dialect-specific"
-	^DateAndTime
-			
+
+	^ Smalltalk at: #DateAndTime
