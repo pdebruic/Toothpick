@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"addEvent:to:from:" : "PaulDeBruicker 5/4/2012 09:02",
+		"formatEvent:for:from:" : "PaulDeBruicker 2/20/2013 12:08"
+	},
+	"class" : {
+		"defaultFormat" : "PaulDeBruicker 5/4/2012 08:34",
+		"mappingKey" : "PaulDeBruicker 5/4/2012 08:34"
+	}
+}

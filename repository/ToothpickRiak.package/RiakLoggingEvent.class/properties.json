@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "LoggingEvent",
+	"category" : "ToothpickRiak",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bucketName",
+		"key"
+	],
+	"name" : "RiakLoggingEvent",
+	"type" : "normal"
+}

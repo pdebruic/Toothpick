@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LoggingFormatter",
+	"category" : "ToothpickRiak",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JSONLoggingFormatter",
+	"type" : "normal"
+}
