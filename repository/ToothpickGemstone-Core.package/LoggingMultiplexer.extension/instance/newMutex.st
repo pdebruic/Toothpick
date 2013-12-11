@@ -1,0 +1,3 @@
+*ToothpickGemstone-Core
+newMutex
+	^TransientSemaphore forMutualExclusion
